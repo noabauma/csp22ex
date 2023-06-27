@@ -1,0 +1,6 @@
+The solutions consist of a C++ part and a python part.
+
+The C++ part generates configurations of a 2D Ising model.
+The python part uses supervised machine learning to learn the phases of the Ising model.
+
+See the top cell of SupervisedLearning.ipynb for instructions on how to run the solution code.

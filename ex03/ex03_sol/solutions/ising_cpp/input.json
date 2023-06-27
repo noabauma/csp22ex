@@ -1,0 +1,17 @@
+{
+  "algorithm" : "Creutz",
+
+  "dimension": 3,
+
+  "Ls" : [4, 8, 16],
+  "Ts" : [2.0, 2.5, 3.0, 4.0, 4.4, 4.45, 4.48, 4.5, 4.505, 4.507, 4.51,  
+          4.515, 4.52, 4.55, 4.6, 4.7, 4.8, 5.0, 8.0, 10.0, 20.0, 100.0],
+
+  "num_energies" : 16,
+  "E_max" : 48,
+  "initial E_d" : 12,
+
+  "sweep-factor" : 3,
+  "thermalization-factor" : 10,
+  "measurements" : 10000
+}

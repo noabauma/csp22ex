@@ -1,0 +1,16 @@
+The solution report consists of the jupyter notebook 'Ex02 Analysis.ipynb'.
+You can read through it without running any code
+
+Running the code is achieved by following these steps:
+
+1) Compile code by issuing 'make all'. Be sure to change CXX to your compiler.
+2) Generate correlation analysis data by issuing './correlation_analysis'
+   This enables you to run all cells in part 1 of the notebook.
+   You should first uncomment the data loading cell of part 1.
+3) Generate data by issuing './main'
+4) Analyze data by running all cells in 'Ex02 Analysis.ipynb'.
+   You should uncomment the two data loading cells.
+
+Note that running all the code takes some time, depending on your machine.
+
+For questions, contact engelerp@phys.ethz.ch
